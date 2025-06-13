@@ -1,0 +1,2 @@
+# Projet-AAA-UOI-Games-Recommandation-strategique-pour-un-lancement-reussi
+Étude stratégique complète menée pour UOI Games afin d’évaluer la faisabilité du lancement d’un jeu AAA narratif. Ce projet mobilise des analyses de tendances, une segmentation marché, un benchmark concurrentiel, ainsi qu’un business plan structuré intégrant prévisions de ventes, positionnement produit et roadmap transmédia.
